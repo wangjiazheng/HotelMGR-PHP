@@ -1,0 +1,1 @@
+/usr/local/app/php/bin/php /home/www/testapp/test_message_send.php 500 252
